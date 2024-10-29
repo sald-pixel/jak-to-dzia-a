@@ -1,5 +1,5 @@
-p{
-    color:red;
+body{
+    color:rgb(25, 0, 255);
     background-color:rgb(255, 255, 255) ;
 }
 img{
@@ -13,4 +13,10 @@ p{
 div{
     max-width: 800px;
     margin:auto;
+}
+.playwrite {
+    font-family:"Playwrite GB S",cursive;
+    font-optical-sizing: auta;
+    font-weight: normal;
+    font_style: normal;
 }
